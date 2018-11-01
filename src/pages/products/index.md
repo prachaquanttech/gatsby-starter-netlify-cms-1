@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Coffee.  PPPP1233
+title: Our Coffee.  PPPP1233000
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
